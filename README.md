@@ -8,7 +8,7 @@ A data analysis project exploring financial trends across New Zealand industries
 
 This project cleans, analyses, and visualises the [New Zealand Annual Enterprise Survey](https://www.stats.govt.nz/large-datasets/csv-files-for-download/) published by Stats NZ, covering financial years 2011 to 2024. The goal is to identify revenue trends, top-performing industries, and relationships between sectors over time.
 
-View dashboard here:https://public.tableau.com/shared/X3NXTYNX9?:display_count=n&:origin=viz_share_link
+View dashboard here:https://public.tableau.com/views/YoYanalysis2011-2024/YoYAnalysis2011-2024?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
